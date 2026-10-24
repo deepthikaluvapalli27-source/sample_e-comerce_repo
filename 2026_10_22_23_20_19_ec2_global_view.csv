@@ -1,0 +1,5 @@
+﻿Name,Region,Resource ID,Resource Type,Tag Key,Tag Value,Zone IDs
+ap-south-2a,ap-south-2,aps2-az1,AvailabilityZone,,,aps2-az1
+–,ap-south-2,subnet-0636d4891085de20a,Subnet,,,aps2-az1
+–,ap-south-2,vpc-01582fbf667930e12,Vpc,,,aps2-az3;aps2-az1;aps2-az2
+–,ap-south-2,acl-0f0c4d590491e7323,NetworkAcl,,,aps2-az1;aps2-az3;aps2-az2
